@@ -7,7 +7,23 @@ name = "channel"
 version = "0.1.0"
 
 [[package]]
+name = "impl-oop"
+version = "0.1.0"
+
+[[package]]
 name = "mutex"
+version = "0.1.0"
+
+[[package]]
+name = "test-cargo-env"
+version = "7.1.6"
+
+[[package]]
+name = "test-mtb-extravars"
+version = "0.1.0"
+
+[[package]]
+name = "test-mtb-shellout"
 version = "0.1.0"
 
 [[package]]
